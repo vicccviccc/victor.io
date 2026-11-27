@@ -1,1 +1,11 @@
-vou fazer dps
+/* estilo geral da pagina */
+* { box-sizing: border-box; }
+body {
+    margin: 0 auto;
+    padding: 24px;
+    max-width: 960px;
+    font-family: Arial, sans-serif;
+    background: #f1f3f6;
+    color: #222;
+    line-height: 1.6;
+}
