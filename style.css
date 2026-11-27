@@ -13,3 +13,9 @@ body {
 h1 { color: #253b56; margin-bottom: 12px; }
 h2 { color: #253b56; margin-top: 32px; }
 h3 { margin-top: 0; }
+
+/* deixei a tabela mais facil de ler */
+table { width: 100%; border-collapse: collapse; background: white; }
+th, td { padding: 10px; border: 1px solid #cbd5e1; text-align: left; }
+th { background: #253b56; color: white; }
+tr:nth-child(even) { background: #f8fafc; }
