@@ -9,3 +9,7 @@ body {
     color: #222;
     line-height: 1.6;
 }
+
+h1 { color: #253b56; margin-bottom: 12px; }
+h2 { color: #253b56; margin-top: 32px; }
+h3 { margin-top: 0; }
